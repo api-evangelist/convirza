@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Convirza is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Convirza provides conversation analytics and call tracking solutions that help businesses capture, analyze, and act on phone call data. Their platform offers AI‑driven insights, call recording, transcription, and integration with CRM and marketing tools, enabling improved customer experience and sales performance across industries such as automotive, healthcare, and real estate.
+
+**Areas:** Conversation Analytics · Call Tracking · Artificial Intelligence · Marketing · Sales Enablement
+
+## Convirza on APIs.io
+
+Everything profiled for Convirza is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/convirza/](https://apis.io/providers/convirza/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Convirza Ad Source API](https://apis.io/apis/convirza/convirza-ad-source-api/) — The Ad Source API from Convirza — 1 operation(s) for ad source.
+- [Convirza Ai Voice Agents API](https://apis.io/apis/convirza/convirza-ai-voice-agents-api/) — The Ai Voice Agents API from Convirza — 2 operation(s) for ai voice agents.
+- [Convirza Broadcast API](https://apis.io/apis/convirza/convirza-broadcast-api/) — The Broadcast API from Convirza — 2 operation(s) for broadcast.
+- [Convirza Conversations API](https://apis.io/apis/convirza/convirza-conversations-api/) — The Conversations API from Convirza — 3 operation(s) for conversations.
+- [Convirza Convirza API](https://apis.io/apis/convirza/convirza-convirza-api-api/) — The Convirza API API from Convirza — 1 operation(s) for convirza api.
+- [Convirza Groups API](https://apis.io/apis/convirza/convirza-groups-api/) — The Groups API from Convirza — 3 operation(s) for groups.
+- [Convirza Industry API](https://apis.io/apis/convirza/convirza-industry-api/) — The Industry API from Convirza — 1 operation(s) for industry.
+- [Convirza Media Prompts API](https://apis.io/apis/convirza/convirza-media-prompts-api/) — The Media Prompts API from Convirza — 2 operation(s) for media prompts.
+- [Convirza OAuth API](https://apis.io/apis/convirza/convirza-oauth-api/) — The Oauth API from Convirza — 3 operation(s) for oauth.
+- [Convirza Phone Numbers API](https://apis.io/apis/convirza/convirza-phone-numbers-api/) — The Phone Numbers API from Convirza — 3 operation(s) for phone numbers.
+- [Convirza Provisioned Routes API](https://apis.io/apis/convirza/convirza-provisioned-routes-api/) — The Provisioned Routes API from Convirza — 3 operation(s) for provisioned routes.
+- [Convirza Tag API](https://apis.io/apis/convirza/convirza-tag-api/) — The Tag API from Convirza — 2 operation(s) for tag.
+- [Convirza User API](https://apis.io/apis/convirza/convirza-user-api/) — The User API from Convirza — 1 operation(s) for user.
+- [Convirza Users API](https://apis.io/apis/convirza/convirza-users-api/) — The Users API from Convirza — 3 operation(s) for users.
+- [Convirza Webhooks API](https://apis.io/apis/convirza/convirza-webhooks-api/) — The Webhooks API from Convirza — 2 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetOauthTokenResponse](https://apis.io/schemas/convirza/convirza-get-oauth-token-response/)
+- [GetV2UserReportsResponse](https://apis.io/schemas/convirza/convirza-get-v2-user-reports-response/)
+- [PostMediaPromptsRequest](https://apis.io/schemas/convirza/convirza-post-media-prompts-request/)
+- [PostOauthOauthidRequest](https://apis.io/schemas/convirza/convirza-post-oauth-oauthid-request/)
+- [PostOauthTokenClientCredentialsRequest](https://apis.io/schemas/convirza/convirza-post-oauth-token-client-credentials-request/)
+- [PostOauthTokenClientCredentialsResponse](https://apis.io/schemas/convirza/convirza-post-oauth-token-client-credentials-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Convirza Context](https://apis.io/jsonld/convirza/convirza-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Convirza API Rules](https://apis.io/rules/convirza/convirza-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Convirza Authentication](https://apis.io/security/convirza/convirza-authentication/)
+- [Convirza Domain Security](https://apis.io/security/convirza/convirza-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Convirza Plans Pricing](https://apis.io/plans/convirza/convirza-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.convirza.com/)
+- [Documentation](https://docs.convirza.com/)
+- [Getting started](https://docs.convirza.com/getting-started-2079902m0)
+- [Pricing](https://www.convirza.com/pricingpage/pricing-page/)
+- [Sign up](https://cai.convirza.com/login)
+- [Support](https://kb.convirza.com/)
+- [Blog](https://www.convirza.com/newsroom/)
+- [Terms of service](https://convirza.com/terms-conditions/)
+- [Privacy policy](https://www.convirza.com/privacy-policy/)
+- [Status](https://status.convirza.com/)
+
+## API Evangelist rating
+
+**Kin Score 45.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 29.0 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 76.3 |
+
+**Agent readiness 21.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/convirza/](https://apis.io/providers/convirza/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Convirza: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/convirza/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
